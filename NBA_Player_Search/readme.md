@@ -19,7 +19,8 @@ Web crawling(bs4)
 Pandas
 
 #Additional features
-S3 upload
+S3 DB upload
+Web crawling for player picture
 
 # Feedback
 Please provide any feedback on how to improve my techniques.
