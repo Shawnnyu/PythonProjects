@@ -1,0 +1,10 @@
+pandas
+nba_api
+django
+configparser
+boto3
+zipFile
+re
+io
+bs4
+requests

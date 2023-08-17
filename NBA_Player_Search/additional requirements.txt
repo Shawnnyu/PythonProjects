@@ -1,0 +1,18 @@
+# create an app.config in player_register
+
+# template:
+
+
+[AWS]
+AWS_ACCESS_KEY=<>
+AWS_SECRET_ACCESS_KEY=<>
+SERVICE_NAME=s3
+REGION_NAME=<>
+BUCKET_NAME=<>
+
+[PATH]
+filepath=/playerDB.csv
+key=playerDB.csv
+
+[PLAYER_DB]
+default_img=https://t4.ftcdn.net/jpg/00/65/77/27/360_F_65772719_A1UV5kLi5nCEWI0BNLLiFaBPEkUbv5Fv.jpg
